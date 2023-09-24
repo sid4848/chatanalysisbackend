@@ -1,0 +1,159 @@
+{
+  "year": 2023,
+  "message_volume": {
+    "data": [
+      { "date": "2023-09-01", "messages": 45 },
+      { "date": "2023-09-02", "messages": 62 },
+      { "date": "2023-09-03", "messages": 78 },
+      { "date": "2023-09-04", "messages": 55 },
+      { "date": "2023-09-05", "messages": 90 },
+      { "date": "2023-09-06", "messages": 72 },
+      { "date": "2023-09-07", "messages": 60 },
+      { "date": "2023-09-08", "messages": 67 },
+      { "date": "2023-09-09", "messages": 80 },
+      { "date": "2023-09-10", "messages": 58 }
+    ]
+  },
+  "user_engagement": {
+    "data": [
+      { "user": "User1", "messages_sent": 120 },
+      { "user": "User2", "messages_sent": 105 },
+      { "user": "User3", "messages_sent": 90 },
+      { "user": "User4", "messages_sent": 75 },
+      { "user": "User5", "messages_sent": 62 },
+      { "user": "User6", "messages_sent": 50 },
+      { "user": "User7", "messages_sent": 48 },
+      { "user": "User8", "messages_sent": 40 },
+      { "user": "User9", "messages_sent": 35 },
+      { "user": "User10", "messages_sent": 28 }
+    ]
+  },
+  "sentiment_analysis": {
+    "data": [
+      { "sentiment": "Positive", "count": 65 },
+      { "sentiment": "Neutral", "count": 45 },
+      { "sentiment": "Negative", "count": 30 },
+      { "sentiment": "Positive", "count": 58 },
+      { "sentiment": "Neutral", "count": 42 },
+      { "sentiment": "Positive", "count": 70 },
+      { "sentiment": "Negative", "count": 25 },
+      { "sentiment": "Neutral", "count": 48 },
+      { "sentiment": "Negative", "count": 32 },
+      { "sentiment": "Positive", "count": 62 }
+    ]
+  },
+  "word_count": {
+    "data": [
+      { "word": "chat", "frequency": 42 },
+      { "word": "analysis", "frequency": 18 },
+      { "word": "dashboard", "frequency": 25 },
+      { "word": "data", "frequency": 50 },
+      { "word": "visualization", "frequency": 36 },
+      { "word": "insights", "frequency": 14 },
+      { "word": "user", "frequency": 55 },
+      { "word": "interactions", "frequency": 22 },
+      { "word": "feedback", "frequency": 30 },
+      { "word": "improve", "frequency": 27 }
+    ]
+  },
+  "user_activity": {
+    "data": {
+      "January": [
+        { "day": "Monday", "hour": 8, "count": 15 },
+        { "day": "Tuesday", "hour": 12, "count": 23 },
+        { "day": "Wednesday", "hour": 17, "count": 18 },
+        { "day": "Thursday", "hour": 10, "count": 20 },
+        { "day": "Friday", "hour": 14, "count": 17 },
+        { "day": "Saturday", "hour": 16, "count": 22 },
+        { "day": "Sunday", "hour": 19, "count": 14 }
+      ],
+      "February": [
+        { "day": "Monday", "hour": 8, "count": 15 },
+        { "day": "Tuesday", "hour": 12, "count": 23 },
+        { "day": "Wednesday", "hour": 17, "count": 18 },
+        { "day": "Thursday", "hour": 10, "count": 20 },
+        { "day": "Friday", "hour": 14, "count": 17 },
+        { "day": "Saturday", "hour": 16, "count": 22 },
+        { "day": "Sunday", "hour": 19, "count": 14 }
+      ],
+      "March": [
+        { "day": "Monday", "hour": 8, "count": 15 },
+        { "day": "Tuesday", "hour": 12, "count": 23 },
+        { "day": "Wednesday", "hour": 17, "count": 18 },
+        { "day": "Thursday", "hour": 10, "count": 20 },
+        { "day": "Friday", "hour": 14, "count": 17 },
+        { "day": "Saturday", "hour": 16, "count": 22 },
+        { "day": "Sunday", "hour": 19, "count": 14 }
+      ],
+      "April": [
+        { "day": "Monday", "hour": 8, "count": 15 },
+        { "day": "Tuesday", "hour": 12, "count": 23 },
+        { "day": "Wednesday", "hour": 17, "count": 18 },
+        { "day": "Thursday", "hour": 10, "count": 20 },
+        { "day": "Friday", "hour": 14, "count": 17 },
+        { "day": "Saturday", "hour": 16, "count": 22 },
+        { "day": "Sunday", "hour": 19, "count": 14 }
+      ],
+      "May": [
+        { "day": "Monday", "hour": 8, "count": 15 },
+        { "day": "Tuesday", "hour": 12, "count": 23 },
+        { "day": "Wednesday", "hour": 17, "count": 18 },
+        { "day": "Thursday", "hour": 10, "count": 20 },
+        { "day": "Friday", "hour": 14, "count": 17 },
+        { "day": "Saturday", "hour": 16, "count": 22 },
+        { "day": "Sunday", "hour": 19, "count": 14 }
+      ],
+      "June": [
+        { "day": "Monday", "hour": 8, "count": 15 },
+        { "day": "Tuesday", "hour": 12, "count": 23 },
+        { "day": "Wednesday", "hour": 17, "count": 18 },
+        { "day": "Thursday", "hour": 10, "count": 20 },
+        { "day": "Friday", "hour": 14, "count": 17 },
+        { "day": "Saturday", "hour": 16, "count": 22 },
+        { "day": "Sunday", "hour": 19, "count": 14 }
+      ]
+    }
+  },
+  "topic_modeling": {
+    "data": [
+      { "topic": "Technology", "count": 40 },
+      { "topic": "Sports", "count": 25 },
+      { "topic": "Movies", "count": 30 },
+      { "topic": "Food", "count": 15 },
+      { "topic": "Travel", "count": 22 },
+      { "topic": "Fashion", "count": 18 },
+      { "topic": "Music", "count": 33 },
+      { "topic": "Health", "count": 28 },
+      { "topic": "Science", "count": 36 },
+      { "topic": "Politics", "count": 20 }
+    ]
+  },
+  "response_time": {
+    "data": [
+      { "user": "User1", "response_time_ms": [120, 150, 180, 200, 220] },
+      { "user": "User2", "response_time_ms": [90, 110, 130, 160, 190] },
+      { "user": "User3", "response_time_ms": [130, 145, 175, 195, 210] },
+      { "user": "User4", "response_time_ms": [100, 125, 155, 185, 210] },
+      { "user": "User5", "response_time_ms": [80, 105, 135, 165, 190] },
+      { "user": "User6", "response_time_ms": [115, 140, 170, 195, 225] },
+      { "user": "User7", "response_time_ms": [105, 130, 160, 190, 215] },
+      { "user": "User8", "response_time_ms": [95, 120, 150, 180, 205] },
+      { "user": "User9", "response_time_ms": [125, 155, 185, 215, 240] },
+      { "user": "User10", "response_time_ms": [110, 135, 165, 195, 220] }
+    ]
+  },
+  "user_message_length": {
+    "data": [
+      { "user": "User1", "message_length": 25 },
+      { "user": "User2", "message_length": 40 },
+      { "user": "User3", "message_length": 15 },
+      { "user": "User4", "message_length": 32 },
+      { "user": "User5", "message_length": 20 },
+      { "user": "User6", "message_length": 37 },
+      { "user": "User7", "message_length": 18 },
+      { "user": "User8", "message_length": 28 },
+      { "user": "User9", "message_length": 45 },
+      { "user": "User10", "message_length": 22 }
+    ]
+  }
+}

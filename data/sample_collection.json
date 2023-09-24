@@ -1,0 +1,62 @@
+{
+    "participants": ["UserA", "UserB"],
+    "numbers": [1234, 5678],
+    "sentiment":[{"positive":50},
+    {"negative":40},
+    {"neutral":70}
+    ],
+    "topic":["personal","function","exam"],
+    "messages": [
+      {
+        "sender": "UserA",
+        "timestamp": "2023-01-15T14:30:00",
+        "text": "Hello, how are you?"
+      },
+      {
+        "sender": "UserB",
+        "timestamp": "2023-01-15T14:35:00",
+        "text": "I'm good, thanks!"
+      },
+      {
+        "sender": "UserA",
+        "timestamp": "2023-01-15T14:40:00",
+        "text": "What's up?"
+      },
+      {
+        "sender": "UserB",
+        "timestamp": "2023-01-15T14:45:00",
+        "text": "Not much, just chilling."
+      },
+      {
+        "sender": "UserA",
+        "timestamp": "2023-01-15T14:50:00",
+        "text": "Have any plans for the weekend?"
+      },
+      {
+        "sender": "UserB",
+        "timestamp": "2023-01-15T14:55:00",
+        "text": "Not yet. How about you?"
+      },
+      {
+        "sender": "UserA",
+        "timestamp": "2023-01-15T15:00:00",
+        "text": "Thinking of going hiking if the weather is good."
+      },
+      {
+        "sender": "UserB",
+        "timestamp": "2023-01-15T15:05:00",
+        "text": "That sounds like fun! I might join you."
+      },
+      {
+        "sender": "UserA",
+        "timestamp": "2023-01-15T15:10:00",
+        "text": "Great! Let's check the weather forecast."
+      },
+      {
+        "sender": "UserB",
+        "timestamp": "2023-01-15T15:15:00",
+        "text": "Sure, I'll do that."
+      }
+    ]
+  }
+  
